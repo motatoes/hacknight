@@ -104,8 +104,10 @@ class Brainfuck:
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         # read program from file
-        program = sys.argv[0]
-
+        program_file = sys.argv[1]
+        program = open(program_file).readlines()
+        program = "".join(program)
+        Brainfuck().runbf(program)
     else:
         # stdin run
         print("enter your program (Ctrl-D when done):")

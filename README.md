@@ -21,7 +21,9 @@ This repository contains the code challenges that are discussed in the [London h
 
 | date                |     Link                             |
 | ------------------- | ------------------------------------ |
-|  3rd Occtober 2019  | [click here](oct-3.md)               |
+|  3rd October 2019   | [click here](oct-3.md)               |
+| ------------------- | ------------------------------------ |
+|  25th November 2019 | [click here](19-nov-25.md)           |
 
 
 
